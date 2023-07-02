@@ -11,5 +11,3 @@ this condition is not verified, the function should issue a message allusive
 to error
 The numbers n and b must be requested from the user at the beginning of each execution of the
 program and this should only end when the user orders it.
-The formatting of the function's output should be similar to that shown in the
-following image:
